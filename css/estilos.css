@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 30px;
+}
+
+nav {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: red;
+}
+
+.contenedores {
+    text-align: center;
+}
+
